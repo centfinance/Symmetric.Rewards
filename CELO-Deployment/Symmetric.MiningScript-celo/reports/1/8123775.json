@@ -1,0 +1,68 @@
+[
+    {
+        "0xD3A5654A109D32Ca852B309fbD4D9EE449dF172b": [
+            {
+                "pool": "0x2d073839e9d7d3b1028f35da54a40ff1562cee60",
+                "feeFactor": "0.9985947383062085",
+                "balAndRatioFactor": "0.96",
+                "wrapFactor": "1",
+                "valueUSD": "0",
+                "factorUSD": "0"
+            },
+            {
+                "pool": "0xbf41971ef92df39016fb705a7ef56bb5eb203fee",
+                "feeFactor": "0.9985947383062085",
+                "balAndRatioFactor": "1",
+                "wrapFactor": "1",
+                "valueUSD": "0",
+                "factorUSD": "0"
+            },
+            {
+                "pool": "0xe9a5dd29c6949b3f5c0ba0162223c5b4830a8416",
+                "feeFactor": "0.9985947383062085",
+                "balAndRatioFactor": "0.96",
+                "wrapFactor": "1",
+                "valueUSD": "0",
+                "factorUSD": "0"
+            }
+        ],
+        "0x1c5302aD98765D84f980a8B382EF51814A0ed2d9": [
+            {
+                "pool": "0x8e31ae2ecf51943ff390d8119b407c22d554a1b0",
+                "feeFactor": "0.9961013694701175",
+                "balAndRatioFactor": "1",
+                "wrapFactor": "1",
+                "valueUSD": "1523.712059130704209292",
+                "factorUSD": "1517.77166877822711525"
+            },
+            {
+                "pool": "0xe3d6e11d567e2c3b4f81beb0c9fc42cc84b398a3",
+                "feeFactor": "0.9961013694701175",
+                "balAndRatioFactor": "1",
+                "wrapFactor": "1",
+                "valueUSD": "6301.683927533387318732",
+                "factorUSD": "6277.115990183835788921"
+            },
+            {
+                "pool": "0xf47c9eef21362e8423b1da3fd58209e36ca69467",
+                "feeFactor": "0.9961013694701175",
+                "balAndRatioFactor": "1",
+                "wrapFactor": "1",
+                "valueUSD": "1041.627672108851284317",
+                "factorUSD": "1037.566750665597278468"
+            }
+        ]
+    },
+    {
+        "0xD3A5654A109D32Ca852B309fbD4D9EE449dF172b": "0",
+        "0x1c5302aD98765D84f980a8B382EF51814A0ed2d9": "23.20584413407821229"
+    },
+    {
+        "0x471EcE3750Da237f93B8E339c536989b8978a438": "3117.079261653486271359370780345979031943",
+        "0x765DE816845861e75A25fCA122bb6898B8B1282a": "2092.371996727945260881294669938721403693",
+        "0xD629eb00dEced2a080B7EC630eF6aC117e614f1b": "505.92388959274237124407611040725762825",
+        "0x2DEf4285787d58a2f811AF24755A8150622f4361": "505.92388959274237124407611040725762825",
+        "0xD8763CBa276a3738E6DE85b4b3bF5FDed6D6cA73": "2092.371996727945260881294669938721403693",
+        "0x00Be915B9dCf56a3CBE739D9B9c202ca692409EC": "518.783375332798639234"
+    }
+]
